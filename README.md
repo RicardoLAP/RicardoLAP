@@ -6,8 +6,8 @@ Here are some ideas to get you started:
           Motorista de aplicativo Uber
 - 🌱 Estou cursando:
          * Curso Lógica de Programação Python (60H)
-         * Curso Técnico Programador Web Senac-Goiânia - HTML5 - CSS - JV - Bootstrap - Visual Studio (240H)
-         * Curso Técnico Administrador de Banco de Dados Senac-Goiânia (200H)
+         * Curso Técnico Programador Web Senac-Goiânia - HTML5 - CSS - JV - Bootstrap - Visual Studio (240H) - Cursando
+         * Curso Técnico Administrador de Banco de Dados Senac-Goiânia (200H) - Cursando
 - 📫 Contatos: 
           *Email - ricardolap90@gmail.com
 
