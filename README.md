@@ -5,9 +5,9 @@ Here are some ideas to get you started:
 - 🔭 Estou trabalhando:
           Motorista de aplicativo Uber
 - 🌱 Estou cursando:
-         * Curso Lógica de Programação Python (60H)
-         * Curso Programador Web Senac-Goiânia - HTML5 - CSS - JV - Bootstrap - Visual Studio - Flutter - Cursando (240H)
-         * Curso Técnico de Informática Cursando (1200H) {
+         * Curso Lógica de Programação Python (60H) - FINALIZADO
+         * Curso Programador Web Senac-Goiânia - HTML5 - CSS - JV - Bootstrap - Visual Studio - Flutter - FINALIZADO (240H)
+         * Curso Técnico de Informática CURSANDO (1200H) {
             - Montagem e manutenção:
             - Adm Banco de Dados:
             - Técnico em Redes:
