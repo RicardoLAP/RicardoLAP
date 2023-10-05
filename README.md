@@ -5,10 +5,11 @@ Here are some ideas to get you started:
 - 🔭 Estou trabalhando:
           Motorista de aplicativo Uber
 - 🌱 Estou cursando:
+-        * Maratona Cisco Cybersegurança - FINALIZADO
          * Curso Lógica de Programação Python (60H) - FINALIZADO
-         * Curso Programador Web Senac-Goiânia - HTML5 - CSS - JV - Bootstrap - Visual Studio - Flutter - FINALIZADO (240H)
+         * Curso Programador Web Senac-Goiânia - HTML5 - CSS - JV - Bootstrap - Visual Studio - Flutter -(240H)
          * Curso Técnico de Informática CURSANDO (1200H) {
-            - Montagem e manutenção:
+            - Montagem e manutenção: FINALIZADO
             - Adm Banco de Dados:
             - Técnico em Redes:
             - Programação Web:
