@@ -10,8 +10,8 @@ Here are some ideas to get you started:
          * Curso Programador Web Senac-Goiânia - HTML5 - CSS - JV - Bootstrap - Visual Studio - Flutter -(240H)
          * Curso Técnico de Informática CURSANDO (1200H) {
             - Montagem e manutenção: FINALIZADO
+            - Técnico em Redes: CURSANDO
             - Adm Banco de Dados:
-            - Técnico em Redes:
             - Programação Web:
             - Programação de Sistemas: }
 - 📫 Contatos: 
