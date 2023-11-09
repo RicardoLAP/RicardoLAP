@@ -5,7 +5,8 @@ Here are some ideas to get you started:
 - 🌱 Estou cursando/finalizado:
 - 
          * Network Essentials CISCO - 
-         * Fundamentos em CiberSegurança CISCO  ![CyberEssentials 50p](https://github.com/RicardoLAP/RicardoLAP/assets/129624057/36020967-7e4a-4993-94c9-891ff0d36a5b)
+         * Fundamentos em CiberSegurança CISCO  ![CyberEssentials](https://github.com/RicardoLAP/RicardoLAP/assets/129624057/573f03b3-2ba0-4bc0-8f93-46f69e54b6a9)
+
 
   
          * Curso Lógica de Programação Python Senac-GO (60H) - 
