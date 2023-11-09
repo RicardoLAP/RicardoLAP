@@ -6,9 +6,6 @@ Here are some ideas to get you started:
 - 
          * Network Essentials CISCO - 
          * Fundamentos em CiberSegurança CISCO  ![CyberEssentials](https://github.com/RicardoLAP/RicardoLAP/assets/129624057/573f03b3-2ba0-4bc0-8f93-46f69e54b6a9)
-
-
-  
          * Curso Lógica de Programação Python Senac-GO (60H) - 
          * Curso Programador Web Senac-Go - HTML5 - CSS - JV - Bootstrap - Visual Studio - Flutter -(240H)   
          * Curso Técnico de Informática CURSANDO (1200H) {
