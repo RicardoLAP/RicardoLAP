@@ -3,10 +3,10 @@
 Here are some ideas to get you started:
 
 - 🌱 Estou cursando:
--        * Network Essentials CISCO - 
--        * Fundamentos em CiberSegurança CISCO -![CyberEssentials](https://github.com/RicardoLAP/RicardoLAP/assets/129624057/1785c027-c92d-44ed-9a31-5afc17fa68be)
-         * Curso Lógica de Programação Python (60H) - 
-         * Curso Programador Web Senac-Goiânia - HTML5 - JV - Bootstrap - Visual Studio - Flutter -(240H)   
+         * Network Essentials CISCO - 
+         * Fundamentos em CiberSegurança CISCO -![CyberEssentials](https://github.com/RicardoLAP/RicardoLAP/assets/129624057/1785c027-c92d-44ed-9a31-5afc17fa68be)
+         * Curso Lógica de Programação Python Senac-GO (60H) - 
+         * Curso Programador Web Senac-Go - HTML5 - CSS - JV - Bootstrap - Visual Studio - Flutter -(240H)   
          * Curso Técnico de Informática CURSANDO (1200H) {
             - Montagem e manutenção: FINALIZADO
             - Técnico em Redes: CURSANDO
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
             - Programação Web:
             - Programação de Sistemas: }
 - 📫 Contatos: 
-          *Email - ricardolap90@gmail.com
+         * Email - ricardolap90@gmail.com
 
 
