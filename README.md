@@ -3,9 +3,11 @@
 Here are some ideas to get you started:
 
 - 🌱 Estou cursando/finalizado:
--        * Network Python Essentials 1 - ![python-essentials-1 1](https://github.com/RicardoLAP/RicardoLAP/assets/129624057/24336d39-0a01-4d76-90c7-9a7035211f3c)
+-        * Network Python Essentials 1 - [Python_Essentials_1_Badge20231113-34-5kbqqc.pdf](https://github.com/RicardoLAP/RicardoLAP/files/13335373/Python_Essentials_1_Badge20231113-34-5kbqqc.pdf)
+
          * Network Essentials CISCO - 
-         * Fundamentos em CiberSegurança CISCO  ![CyberEssentials](https://github.com/RicardoLAP/RicardoLAP/assets/129624057/573f03b3-2ba0-4bc0-8f93-46f69e54b6a9)
+         * Fundamentos em CiberSegurança CISCO  [RicardoLuiz Albuquerque-Fundamentos em C-certificate.pdf](https://github.com/RicardoLAP/RicardoLAP/files/13335368/RicardoLuiz.Albuquerque-Fundamentos.em.C-certificate.pdf)
+
          * Curso Lógica de Programação Python Senac-GO (60H) - 
          * Curso Programador Web Senac-Go - HTML5 - CSS - JavaScript - Bootstrap - Visual Studio - Flutter -(240H)   
          * Curso Técnico de Informática CURSANDO (1200H) {
