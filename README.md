@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 -        * Network Python Essentials 1 - [Python_Essentials_1_Badge20231113-34-5kbqqc.pdf](https://github.com/RicardoLAP/RicardoLAP/files/13335373/Python_Essentials_1_Badge20231113-34-5kbqqc.pdf)
          * Network Essentials CISCO - Técnico de Informática : [RicardoLuiz Albuquerque-Network Essentia-certificate (1).pdf](https://github.com/RicardoLAP/RicardoLAP/files/13487473/RicardoLuiz.Albuquerque-Network.Essentia-certificate.1.pdf)
          * Fundamentos em CiberSegurança CISCO  [RicardoLuiz Albuquerque-Fundamentos em C-certificate.pdf](https://github.com/RicardoLAP/RicardoLAP/files/13335368/RicardoLuiz.Albuquerque-Fundamentos.em.C-certificate.pdf)
-         * Curso Lógica de Programação Python Senac-GO (60H) - 
-         * Curso Programador Web Senac-Go - HTML5 - CSS - JavaScript - Bootstrap - Visual Studio - Flutter -(240H)   
+         * Curso Lógica de Programação Python Senac-GO (60H) - FINALIZADO
+         * Curso Programador Web Senac-Go - HTML5 - CSS - JavaScript - Bootstrap - Visual Studio - Flutter -(240H) - FINALIZADO
          * Curso Técnico de Informática CURSANDO (1200H) {
             - Montagem e manutenção: FINALIZADO
             - Técnico em Redes: CURSANDO
