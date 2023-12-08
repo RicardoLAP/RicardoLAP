@@ -15,6 +15,7 @@ Here are some ideas to get you started:
             - Adm Banco de Dados:
             - Programação Web:
             - Programação de Sistemas: }
+- Cursando Inglês Escola Believer Inglês por Imerção - Goiânia
 - 📫 Contatos: 
          * Email - ricardolap90@gmail.com
 
