@@ -1,23 +1,26 @@
-**RicardoLAP/RicardoLAP**  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RicardoLAP/RicardoLAP is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 Estou cursando/finalizado:
--       *  CiberEducação da Cisco Brasil - CCNA1 - [RicardoLuiz Albuquerque-7ª Onda do Ciber-certificate.pdf](https://github.com/RicardoLAP/RicardoLAP/files/13592090/RicardoLuiz.Albuquerque-7.Onda.do.Ciber-certificate.pdf)
-        * Network Python Essentials 1 - [Python_Essentials_1_Badge20231113-34-5kbqqc.pdf](https://github.com/RicardoLAP/RicardoLAP/files/13335373/Python_Essentials_1_Badge20231113-34-5kbqqc.pdf)
-        * Network Essentials CISCO - Técnico de Informática : [RicardoLuiz Albuquerque-Network Essentia-certificate (1).pdf](https://github.com/RicardoLAP/RicardoLAP/files/13487473/RicardoLuiz.Albuquerque-Network.Essentia-certificate.1.pdf)
-        * Fundamentos em CiberSegurança CISCO  [RicardoLuiz Albuquerque-Fundamentos em C-certificate.pdf](https://github.com/RicardoLAP/RicardoLAP/files/13335368/RicardoLuiz.Albuquerque-Fundamentos.em.C-certificate.pdf)
-        * Curso Intodução IoT CISCO - [Uploading RicardoLuiz Albuquerque-Introdução a int-certificate.pdf…]()
-        * Curso Lógica de Programação Python Senac-GO (60H) - FINALIZADO
-        * Curso Programador Web Senac-Go - HTML5 - CSS - JavaScript - Bootstrap - Visual Studio - Flutter -(240H) - FINALIZADO
-        * Curso Técnico de Informática CURSANDO (1200H) {
-            - Montagem e manutenção: FINALIZADO
-            - Técnico em Redes: CURSANDO
-            - Adm Banco de Dados:
-            - Programação Web:
-            - Programação de Sistemas: }
-- Cursando Inglês Escola Believer Inglês por Imerção - Goiânia
-- 📫 Contatos: 
-         * Email - ricardolap90@gmail.com
+    🌱 I am currently taking/completed:
+           * Cisco Brazil Cyber Education - CCNA1 - RicardoLuiz Albuquerque-7th Wave Cyber-certificate.pdf
+           * Network Python Essentials 1 - Python_Essentials_1_Badge20231113-34-5kbqqc.pdf
+           * Network Essentials CISCO - IT Technician : RicardoLuiz Albuquerque-Network Essentials-certificate (1).pdf
+           * Fundamentals of Cybersecurity CISCO RicardoLuiz Albuquerque-Fundamentals in C-certificate.pdf
+           * Introduction to IoT CISCO - Uploading RicardoLuiz Albuquerque-Introduction to IoT-certificate.pdf…
+           * Programming Logic with Python Senac-GO (60H) - COMPLETED
+           * Web Developer Course Senac-Go - HTML5 - CSS - JavaScript - Bootstrap - Visual Studio - Flutter - (240H) - COMPLETED
+           * IT Technician COURSE IN PROGRESS (1200H) {
+           *     Assembly and Maintenance: COMPLETED
+           *     Network Technician: COMPLETED
+           *     Database Administration: COMPLETED (MySql)
+           *     Web Programming: (JavaScript, Git, Github, Html, Css)
+           *     System Programming: COMPLETED (Java NetBeans)
+               }
+               
+    Currently taking English at Believer English School by Immersion - Goiânia Level 2
+    
+    📫 Contacts:
+        Email - ricardolap90@gmail.com
 
 
