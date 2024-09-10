@@ -18,7 +18,7 @@ Here are some ideas to get you started:
            *     System Programming: COMPLETED (Java NetBeans)
                }
                
-    Currently taking English at Believer English School by Immersion - Goiânia Level 2
+    Currently taking English at Believer English School by Immersion - Goiânia intermediary
     
     📫 Contacts:
         Email - ricardolap90@gmail.com
